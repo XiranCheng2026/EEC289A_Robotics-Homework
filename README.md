@@ -173,3 +173,4 @@ Students should usually not modify:
 - rollout bundle field names
 
 That keeps the benchmark comparable across submissions.
+Local VSCode setup test.
